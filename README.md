@@ -89,6 +89,4 @@ Unmap is a premium, production-ready event discovery and business monetization p
 
 ---
 
-*[Full README content continues with all sections...]*
-
-For the complete documentation, see the main [Unmap-App repository](https://github.com/alexlanpowell/Unmap-App).
+*[For complete documentation, see the full README in the main repository](https://github.com/alexlanpowell/Unmap-App)*
